@@ -1,0 +1,5 @@
+package com.webapp.demo.config;
+
+public class webSecurityConfig {
+
+}

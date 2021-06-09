@@ -1,0 +1,5 @@
+package com.webapp.demo.repository;
+
+public class UserRepositoryTests {
+
+}
