@@ -1,6 +1,0 @@
-package com.webapp.demo.controller;
-
-@Controller
-public class AppController {
-
-}
